@@ -9,4 +9,7 @@ The input data contains information about 19 997 users and includes the followin
 - user_id - unique user identifier  
 - timestamp - time of the event  
 - test_group - group A (control) or B (test)  
-- conversion - the fact of subscription (0/1)  
+- conversion - the fact of subscription (0/1)
+## Python used: pandas, numpy, scipy, matplotlib, seaborn.  
+
+## For more details, please see the presentation
